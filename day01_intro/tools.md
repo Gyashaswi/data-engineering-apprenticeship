@@ -1,9 +1,9 @@
 # already installed
-Python 3.10+
+Python 3.10+ ,
 vscode
 
 # newly installed
-git
+git, 
 docker desktop
 
 # completed setup
